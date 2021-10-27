@@ -1,1 +1,1 @@
-Github on keskkond, mida kasutatakse versioonihalduseks ning tarkvaraarenduseks.
+Github on keskkond, mida kasutatakse versioonihalduseks ning tarkvaraarenduseks. Seda kasutavad peamiselt tarkvaraarendajad.
