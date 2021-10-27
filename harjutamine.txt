@@ -1,2 +1,3 @@
 Github on keskkond, mida kasutatakse versioonihalduseks ning tarkvaraarenduseks. Seda kasutavad peamiselt tarkvaraarendajad.
 Mina saan edaspidi Githubi kasutada koodi kirjutamiseks.
+Githubi asutasid Chris Wanstrath, P. J. Hyett, Tom Preston-Werner ja Scott Chacon 2007. aastal (sel aastal algas arendus). Githubi teenus oli alates aastast 2008. kättesaadav.
