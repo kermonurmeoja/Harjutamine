@@ -1,1 +1,2 @@
 Github on keskkond, mida kasutatakse versioonihalduseks ning tarkvaraarenduseks.
+Mina saan edaspidi Githubi kasutada koodi kirjutamiseks.
